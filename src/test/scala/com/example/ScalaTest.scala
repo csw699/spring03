@@ -2,7 +2,7 @@ package com.example
 
 import org.junit.Test
 
-object ScalaTest {
+class ScalaTest {
   
 	@Test
 	def test(): Unit = {
